@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+artifacts/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Hardhat cache
+cache/
+
+# TypeScript build directory
+build/
+
+# Yarn integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+# Compiled JS files from contracts
+src/**/*.js
+
+# Local Hardhat network files
+networks/
+
+# Subgraph files
+subgraph/
+
+# Custom Hardhat tasks
+tasks/
+
+# Visual Studio Code configuration directory
+.vscode/
+
+# IntelliJ IDEA configuration directory
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# User-specific files
+*.iml
+*.DS_Store
+Thumbs.db
+
+#libraries
+.openzeppelin/
